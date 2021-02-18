@@ -15,17 +15,18 @@ study. This data collection campaign was launched in the spring of 2018.
   
 ## How do I avail Breadcrumbs Dataset?
 Currently we will only share the Dataset with researchers affiliated with a university. To avail Breadcrumbs fill the 
-Dataset sharing license agreement here: and send the filled and signed form to <breadcrumbs at unil dot ch>.
+[Dataset sharing license agreement](https://github.com/doplab/breadcrumbsDB/blob/main/Breadcrumbs%20Dataset%20Sharing%20Licence%20Agreement.pdf) and send the filled and signed form to <breadcrumbs at unil dot ch>.
 We will than share a (unique) link with you to download the dataset.
 
 ## How does the Schema of this dataset look like?
 ![alt text](https://github.com/doplab/breadcrumbsDB/blob/main/breadcrumbs_ERD.png)
 
 ## Where can I find the complete documentation of Breadcrumbs?
-![alt text](https://github.com/doplab/breadcrumbsDB/blob/main/Breadcrumbs_Dataset_Description.pdf)
+[Breadcrumbs Documentation](https://github.com/doplab/breadcrumbsDB/blob/main/Breadcrumbs_Dataset_Description.pdf)
 
 ## Where can I find the Breadcrumbs published research paper?
-![alt text](https://github.com/doplab/breadcrumbsDB/blob/main/Moro19SIGSPATIAL.pdf)
+[Breadcrumbs: A Rich Mobility Dataset with
+Point-of-Interest Annotations](https://github.com/doplab/breadcrumbsDB/blob/main/Moro19SIGSPATIAL.pdf)
 
 ## What should I Cite if I use this dataset to publish my research?
 Arielle Moro, Vaibhav Kulkarni, Pierre-Adrien Ghiringhelli, Bertil Chapuis, Kévin Huguenin, and Benoît Garbinato. 2019. 
