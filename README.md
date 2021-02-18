@@ -1,0 +1,2 @@
+# breadcrumbsDB
+This repository contains documentation of the Breadcrumbs database. Breadcrumbs is a rich mobility dataset collected from multiple sensors (incl. GPS, GSM, WiFi, Bluetooth) on the smartphones of 81 individuals. In addition to sensor data, Breadcrumbs contains ground-truth data regarding people points of interest (incl. semantic labels) as well as demographic attributes, contact records, calendar events, lifestyle information, and social relationship labels between the participants of the study.
