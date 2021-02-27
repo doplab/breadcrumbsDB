@@ -1,8 +1,6 @@
 # What is Breadcrumbs
-Breadcrumbs is a rich mobility dataset collected from multiple sensors (incl. GPS, GSM, WiFi, Bluetooth) on the smartphones of 81 individuals. 
-In addition to sensor data, Breadcrumbs also contains ground-truth data regarding people points of interest (incl. semantic labels) as well as 
-demographic attributes, contact records, calendar events, lifestyle information, and social relationship labels between the participants of the 
-study. This data collection campaign was launched in the spring of 2018.
+Breadcrumbs is a rich mobility (geospatial) dataset collected by the DopLab research team (HEC-Lausanne). This data collection campaign was launched in the spring of 2018 
+and was set for a timespan of 3 months. The dataset contains multi-sensor (incl. GPS, GSM, WiFi, Bluetooth) data, logged on the smartphones of 81 individuals, around the lake Geneva region of Switzerland. In addition to the smartphone sensor data, Breadcrumbs also contains ground-truth data regarding people points of interest (incl. semantic labels) as well as demographic attributes, contact records, calendar events, lifestyle information, and social relationship labels between the participants of the study. These unique attributes makes Breadcrumbs ideal for several research areas including: location privacy, human mobility prediction, mobility behavior modeling, benchmarking point of interest retrival techniques to name a few.
 
 ## What exactly does the dataset contain?
 - GPS coordinates: Latitude, Longitude, Altitude and Timestamp
